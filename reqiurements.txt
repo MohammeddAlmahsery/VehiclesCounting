@@ -1,0 +1,4 @@
+numpy==1.26.4
+opencv-python==4.12.0.88
+ikomia==0.14.0
+python-dotenv==1.1.1
